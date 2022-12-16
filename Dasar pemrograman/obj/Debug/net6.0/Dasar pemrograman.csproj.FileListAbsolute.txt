@@ -1,0 +1,15 @@
+C:\Users\ASUS\Desktop\Dasar pemrograman\obj\Debug\net6.0\Dasar pemrograman.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\Dasar pemrograman\obj\Debug\net6.0\Dasar pemrograman.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\Dasar pemrograman\obj\Debug\net6.0\Dasar pemrograman.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\Dasar pemrograman\obj\Debug\net6.0\Dasar pemrograman.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\Dasar pemrograman\obj\Debug\net6.0\Dasar pemrograman.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Dasar pemrograman\bin\Debug\net6.0\Dasar pemrograman.exe
+C:\Users\ASUS\Desktop\Dasar pemrograman\bin\Debug\net6.0\Dasar pemrograman.deps.json
+C:\Users\ASUS\Desktop\Dasar pemrograman\bin\Debug\net6.0\Dasar pemrograman.runtimeconfig.json
+C:\Users\ASUS\Desktop\Dasar pemrograman\bin\Debug\net6.0\Dasar pemrograman.dll
+C:\Users\ASUS\Desktop\Dasar pemrograman\bin\Debug\net6.0\Dasar pemrograman.pdb
+C:\Users\ASUS\Desktop\Dasar pemrograman\obj\Debug\net6.0\Dasar pemrograman.dll
+C:\Users\ASUS\Desktop\Dasar pemrograman\obj\Debug\net6.0\refint\Dasar pemrograman.dll
+C:\Users\ASUS\Desktop\Dasar pemrograman\obj\Debug\net6.0\Dasar pemrograman.pdb
+C:\Users\ASUS\Desktop\Dasar pemrograman\obj\Debug\net6.0\Dasar pemrograman.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\Dasar pemrograman\obj\Debug\net6.0\ref\Dasar pemrograman.dll

@@ -1,0 +1,15 @@
+C:\Users\ASUS\Desktop\Advant. game\bin\Debug\net6.0\Advant. game.exe
+C:\Users\ASUS\Desktop\Advant. game\bin\Debug\net6.0\Advant. game.deps.json
+C:\Users\ASUS\Desktop\Advant. game\bin\Debug\net6.0\Advant. game.runtimeconfig.json
+C:\Users\ASUS\Desktop\Advant. game\bin\Debug\net6.0\Advant. game.dll
+C:\Users\ASUS\Desktop\Advant. game\bin\Debug\net6.0\Advant. game.pdb
+C:\Users\ASUS\Desktop\Advant. game\obj\Debug\net6.0\Advant. game.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\Advant. game\obj\Debug\net6.0\Advant. game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\Advant. game\obj\Debug\net6.0\Advant. game.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\Advant. game\obj\Debug\net6.0\Advant. game.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\Advant. game\obj\Debug\net6.0\Advant. game.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Advant. game\obj\Debug\net6.0\Advant. game.dll
+C:\Users\ASUS\Desktop\Advant. game\obj\Debug\net6.0\refint\Advant. game.dll
+C:\Users\ASUS\Desktop\Advant. game\obj\Debug\net6.0\Advant. game.pdb
+C:\Users\ASUS\Desktop\Advant. game\obj\Debug\net6.0\Advant. game.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\Advant. game\obj\Debug\net6.0\ref\Advant. game.dll

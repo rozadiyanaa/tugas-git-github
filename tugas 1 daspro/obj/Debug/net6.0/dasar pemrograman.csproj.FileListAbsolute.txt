@@ -1,0 +1,15 @@
+C:\Users\fixri\Desktop\dasar pemrograman\bin\Debug\net6.0\dasar pemrograman.exe
+C:\Users\fixri\Desktop\dasar pemrograman\bin\Debug\net6.0\dasar pemrograman.deps.json
+C:\Users\fixri\Desktop\dasar pemrograman\bin\Debug\net6.0\dasar pemrograman.runtimeconfig.json
+C:\Users\fixri\Desktop\dasar pemrograman\bin\Debug\net6.0\dasar pemrograman.dll
+C:\Users\fixri\Desktop\dasar pemrograman\bin\Debug\net6.0\dasar pemrograman.pdb
+C:\Users\fixri\Desktop\dasar pemrograman\obj\Debug\net6.0\dasar pemrograman.csproj.AssemblyReference.cache
+C:\Users\fixri\Desktop\dasar pemrograman\obj\Debug\net6.0\dasar pemrograman.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fixri\Desktop\dasar pemrograman\obj\Debug\net6.0\dasar pemrograman.AssemblyInfoInputs.cache
+C:\Users\fixri\Desktop\dasar pemrograman\obj\Debug\net6.0\dasar pemrograman.AssemblyInfo.cs
+C:\Users\fixri\Desktop\dasar pemrograman\obj\Debug\net6.0\dasar pemrograman.csproj.CoreCompileInputs.cache
+C:\Users\fixri\Desktop\dasar pemrograman\obj\Debug\net6.0\dasar pemrograman.dll
+C:\Users\fixri\Desktop\dasar pemrograman\obj\Debug\net6.0\refint\dasar pemrograman.dll
+C:\Users\fixri\Desktop\dasar pemrograman\obj\Debug\net6.0\dasar pemrograman.pdb
+C:\Users\fixri\Desktop\dasar pemrograman\obj\Debug\net6.0\dasar pemrograman.genruntimeconfig.cache
+C:\Users\fixri\Desktop\dasar pemrograman\obj\Debug\net6.0\ref\dasar pemrograman.dll

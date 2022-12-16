@@ -1,0 +1,15 @@
+C:\Users\ASUS\Desktop\BattleTank\obj\Debug\net6.0\BattleTank.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\BattleTank\obj\Debug\net6.0\BattleTank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\BattleTank\obj\Debug\net6.0\BattleTank.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\BattleTank\obj\Debug\net6.0\BattleTank.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\BattleTank\obj\Debug\net6.0\BattleTank.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\BattleTank\bin\Debug\net6.0\BattleTank.exe
+C:\Users\ASUS\Desktop\BattleTank\bin\Debug\net6.0\BattleTank.deps.json
+C:\Users\ASUS\Desktop\BattleTank\bin\Debug\net6.0\BattleTank.runtimeconfig.json
+C:\Users\ASUS\Desktop\BattleTank\bin\Debug\net6.0\BattleTank.dll
+C:\Users\ASUS\Desktop\BattleTank\bin\Debug\net6.0\BattleTank.pdb
+C:\Users\ASUS\Desktop\BattleTank\obj\Debug\net6.0\BattleTank.dll
+C:\Users\ASUS\Desktop\BattleTank\obj\Debug\net6.0\refint\BattleTank.dll
+C:\Users\ASUS\Desktop\BattleTank\obj\Debug\net6.0\BattleTank.pdb
+C:\Users\ASUS\Desktop\BattleTank\obj\Debug\net6.0\BattleTank.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\BattleTank\obj\Debug\net6.0\ref\BattleTank.dll

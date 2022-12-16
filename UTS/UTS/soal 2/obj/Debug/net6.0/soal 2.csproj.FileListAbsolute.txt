@@ -1,0 +1,15 @@
+C:\Users\ASUS\Desktop\UTS\soal 2\bin\Debug\net6.0\soal 2.exe
+C:\Users\ASUS\Desktop\UTS\soal 2\bin\Debug\net6.0\soal 2.deps.json
+C:\Users\ASUS\Desktop\UTS\soal 2\bin\Debug\net6.0\soal 2.runtimeconfig.json
+C:\Users\ASUS\Desktop\UTS\soal 2\bin\Debug\net6.0\soal 2.dll
+C:\Users\ASUS\Desktop\UTS\soal 2\bin\Debug\net6.0\soal 2.pdb
+C:\Users\ASUS\Desktop\UTS\soal 2\obj\Debug\net6.0\soal 2.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\UTS\soal 2\obj\Debug\net6.0\soal 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\UTS\soal 2\obj\Debug\net6.0\soal 2.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\UTS\soal 2\obj\Debug\net6.0\soal 2.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\UTS\soal 2\obj\Debug\net6.0\soal 2.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\UTS\soal 2\obj\Debug\net6.0\soal 2.dll
+C:\Users\ASUS\Desktop\UTS\soal 2\obj\Debug\net6.0\refint\soal 2.dll
+C:\Users\ASUS\Desktop\UTS\soal 2\obj\Debug\net6.0\soal 2.pdb
+C:\Users\ASUS\Desktop\UTS\soal 2\obj\Debug\net6.0\soal 2.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\UTS\soal 2\obj\Debug\net6.0\ref\soal 2.dll

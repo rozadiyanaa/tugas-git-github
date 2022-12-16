@@ -1,0 +1,15 @@
+C:\Users\ASUS\Desktop\program dasar\obj\Debug\net6.0\program dasar.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\program dasar\obj\Debug\net6.0\program dasar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\program dasar\obj\Debug\net6.0\program dasar.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\program dasar\obj\Debug\net6.0\program dasar.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\program dasar\obj\Debug\net6.0\program dasar.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\program dasar\bin\Debug\net6.0\program dasar.exe
+C:\Users\ASUS\Desktop\program dasar\bin\Debug\net6.0\program dasar.deps.json
+C:\Users\ASUS\Desktop\program dasar\bin\Debug\net6.0\program dasar.runtimeconfig.json
+C:\Users\ASUS\Desktop\program dasar\bin\Debug\net6.0\program dasar.dll
+C:\Users\ASUS\Desktop\program dasar\bin\Debug\net6.0\program dasar.pdb
+C:\Users\ASUS\Desktop\program dasar\obj\Debug\net6.0\program dasar.dll
+C:\Users\ASUS\Desktop\program dasar\obj\Debug\net6.0\refint\program dasar.dll
+C:\Users\ASUS\Desktop\program dasar\obj\Debug\net6.0\program dasar.pdb
+C:\Users\ASUS\Desktop\program dasar\obj\Debug\net6.0\program dasar.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\program dasar\obj\Debug\net6.0\ref\program dasar.dll
